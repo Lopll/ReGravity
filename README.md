@@ -1,3 +1,5 @@
+<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/ec359cf2-73c9-4c37-936e-718bf174a1b8" />
+
 Необходимо импортировать из Fab следующие ассеты и поместить их в Content/Fab:
 1. [Fluorescent Ceiling Lamp](https://www.fab.com/listings/ed5b0308-d5e5-44ba-b271-af87bedcb547)
 2. [Lamp](https://www.fab.com/listings/18f087f9-6ad4-4f4f-9b11-4209d5951836)
